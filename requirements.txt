@@ -11,3 +11,4 @@ osgeo
 overpass
 geojson
 plotly
+matplotlib
