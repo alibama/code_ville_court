@@ -1,0 +1,12 @@
+pydeck
+pandas
+streamlit
+shapely
+fiona
+geopandas
+pygeos
+folium
+pyproj
+osgeo
+overpass
+geojson
